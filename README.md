@@ -3,8 +3,6 @@ Hi 👋, I'm Aditya Raj
 
 AI/ML • NLP • Audio Processing • Flutter Developer
 
-
-
 🚀 Passionate about building AI-driven applications, audio intelligence systems, and full-stack solutions.
 
 
@@ -52,6 +50,9 @@ AI/ML • NLP • Audio Processing • Flutter Developer
 | 📱 Flutter Apps | UI-rich mobile apps (demo + more coming soon) | Flutter, Firebase |
 
 
+💻 Tech Stack:
+<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/62cafaf5-e3fb-46fe-b00c-aed8ec80abfb" />
+
 
 ## 🌐 Connect With Me
 
@@ -65,8 +66,7 @@ I’m always open for collaboration & research ideas!
 🌐 Socials:
 Instagram LinkedIn email
 
-💻 Tech Stack:
-C++ C CSS3 Dart Python TypeScript Java HTML5 JavaScript Render Vercel Heroku Firebase Anaconda Flutter Bootstrap FastAPI Flask NodeJS React Vite TailwindCSS MongoDB Firebase Supabase SQLite MySQL Postgres Keras Matplotlib mlflow NumPy Pandas TensorFlow Plotly PyTorch scikit-learn Scipy GitHub GitLab Twilio FFmpeg Docker Grafana Prettier
+
 
 📊 GitHub Stats:
 
